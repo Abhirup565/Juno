@@ -1,4 +1,4 @@
-const API_KEY = 'AIzaSyAxoOHwtZNphykod8NP8lAfyySDDO4FKe8';
+const API_KEY = 'YOUR_API_KEY';
 
 function createConceptualHintPrompt(problemData) {
     const prompt = `
