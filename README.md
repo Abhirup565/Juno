@@ -22,3 +22,25 @@
 - **Platform:** Chrome Extension Manifest V3
 
 ## 📸 Screenshots
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <b>Chat Panel Toggle Button</b><br/>
+      <img src="assets/Capture_2025-12-22_12-15-58.png" alt="Complexity Table" width="100%"/>
+    </td>
+    <td width="30%" align="center">
+      <b>Chat Panel</b><br/>
+      <img src="assets/Capture_2025-12-22_12-15-09.png" alt="Hint Feature" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <b>Interactive Chat</b><br/>
+      <img src="assets/Capture_2025-12-22_12-13-17.png" alt="Chat UI" width="100%"/>
+    </td>
+    <td width="50%" align="center">
+      <b>Interactive Chat</b><br/>
+      <img src="assets/Capture_2025-12-22_12-14-31.png" alt="Pattern Identification" width="100%"/>
+    </td>
+  </tr>
+</table>
