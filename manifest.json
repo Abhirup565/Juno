@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "Juno - LeetCode AI Guide",
+  "version": "1.0",
+  "description": "AI-powered hints and complexity analysis for LeetCode problems.",
+  "permissions": [
+    "storage"
+  ],
+  "host_permissions": [
+    "https://leetcode.com/problems/*"
+  ],
+  "action": {
+    "default_title": "Juno",
+    "default_popup": "sidebar.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://leetcode.com/problems/*"],
+      "js": ["marked.min.js", "contentScript.js"]
+    }
+  ],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
